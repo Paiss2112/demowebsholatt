@@ -9,7 +9,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
   <style>
     body {
-      background: rgb(190, 61, 61);
+      background: rgb(215, 202, 202);
       font-family: 'Segoe UI', sans-serif;
     }
 
@@ -35,7 +35,7 @@
 
     .icon-sholat {
       margin-right: 8px;
-      color: #bdbdbd;
+      color:rgb(0, 0, 0);
     }
 
     #btn-reminder {
@@ -53,7 +53,7 @@
     }
 
     #save-reminder {
-      background-color: rgb(190, 61, 61);
+      background-color: rgb(215, 202, 202);
       color: #fff;
       transition: all 0.3s ease;
     }
